@@ -11,9 +11,16 @@ ion-badge {
 }
  
 .category-banner {
-    border-left: 8px solid var(--ion-color-secondary);
+    border-left: 8px solid var(--ion-color-warning);
     background: var(--ion-color-light);
     height: 40px;
     padding: 10px;
     font-weight: 500;
+}
+
+img {
+    width: 180px;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
 }
